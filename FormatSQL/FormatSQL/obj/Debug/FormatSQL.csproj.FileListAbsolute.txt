@@ -1,0 +1,15 @@
+D:\GitHub\WPF\FormatSQL\FormatSQL\bin\Debug\FormatSQL.exe.config
+D:\GitHub\WPF\FormatSQL\FormatSQL\bin\Debug\FormatSQL.exe
+D:\GitHub\WPF\FormatSQL\FormatSQL\bin\Debug\FormatSQL.pdb
+D:\GitHub\WPF\FormatSQL\FormatSQL\obj\Debug\FormatSQL.csprojAssemblyReference.cache
+D:\GitHub\WPF\FormatSQL\FormatSQL\obj\Debug\MainWindow.g.cs
+D:\GitHub\WPF\FormatSQL\FormatSQL\obj\Debug\App.g.cs
+D:\GitHub\WPF\FormatSQL\FormatSQL\obj\Debug\FormatSQL_MarkupCompile.cache
+D:\GitHub\WPF\FormatSQL\FormatSQL\obj\Debug\FormatSQL_MarkupCompile.lref
+D:\GitHub\WPF\FormatSQL\FormatSQL\obj\Debug\MainWindow.baml
+D:\GitHub\WPF\FormatSQL\FormatSQL\obj\Debug\FormatSQL.g.resources
+D:\GitHub\WPF\FormatSQL\FormatSQL\obj\Debug\FormatSQL.Properties.Resources.resources
+D:\GitHub\WPF\FormatSQL\FormatSQL\obj\Debug\FormatSQL.csproj.GenerateResource.cache
+D:\GitHub\WPF\FormatSQL\FormatSQL\obj\Debug\FormatSQL.csproj.CoreCompileInputs.cache
+D:\GitHub\WPF\FormatSQL\FormatSQL\obj\Debug\FormatSQL.exe
+D:\GitHub\WPF\FormatSQL\FormatSQL\obj\Debug\FormatSQL.pdb

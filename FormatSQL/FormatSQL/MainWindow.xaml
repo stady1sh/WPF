@@ -1,0 +1,28 @@
+﻿<Window x:Class="FormatSQL.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FormatSQL"
+        mc:Ignorable="d"
+	Title="MainWindow"
+	Height="177.117"
+	Width="241.876">
+    <Grid>
+        <Button
+			Content="SQL整形"
+			HorizontalAlignment="Left"
+			Height="97"
+			Margin="10,10,0,0"
+			VerticalAlignment="Top"
+			Width="213"
+			FontSize="36"
+			Click="Button_Click" />
+        <Label
+			Name="lblMessage"
+			Content="クリップボードのSQL文を整形します。"
+			HorizontalAlignment="Left"
+			Margin="10,112,0,0"
+			VerticalAlignment="Top" />
+    </Grid>
+</Window>
